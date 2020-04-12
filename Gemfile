@@ -2,6 +2,7 @@ source "https://rubygems.org"
 gemspec
 
 # theme
+gem "jekyll-remote-theme"
 gem "minimal-mistakes-jekyll"
 gem 'nokogiri'
 gem 'rack', '~> 2.0.1'
