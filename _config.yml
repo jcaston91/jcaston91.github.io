@@ -20,7 +20,7 @@ title                    : "JCaston Data Science Profile"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jon Caston"
-description              : "Data Science Graduate Student at Bellevue University. I also hold a Bachelors in Cybersecurity. Fueled with passion to use Data Science and make a difference in the world."
+description              : # description here
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Jon Caston"
   avatar           : "/images/profile_image.png"
-  bio              : "Data Science Portfolio"
+  bio              : "Data Science Graduate Student at Bellevue University. I also hold a Bachelors in Cybersecurity."
   location         : "Seattle, WA"
   email            : "j.caston.91@gmail.com"
   github           : "jcaston91"
