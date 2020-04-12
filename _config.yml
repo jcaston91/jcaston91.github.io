@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Jon Caston"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "C:/Users/lionb/Desktop/jcaston91.github.io/images/profile image.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Somewhere"
   email            : "j.caston.91@gmail.com"
