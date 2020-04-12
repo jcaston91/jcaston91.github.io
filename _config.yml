@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Jon Caston"
-  avatar           : "/images/profile%20image.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile_image.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Seattle, WA"
   email            : "j.caston.91@gmail.com"
