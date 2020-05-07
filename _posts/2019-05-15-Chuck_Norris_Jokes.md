@@ -2,8 +2,11 @@
 title: "Chuck Norris Jokes App"
 date: 2019-05-15
 author_profile: false
-tags: [user input, python, JSON]
-excerpt: "This is a fun project that I di where I connect to an API that host differnt CHuck Norris Jokes."
+tags: 
+  -user input
+  -python
+  -JSON
+excerpt: "This was a fun project that I did where I connected to an API that host differnt Chuck Norris Jokes."
 ---
 
 # Chuck Norris Jokes
