@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /projects/
-title: "Projects Performed by Me"
+title: "My Projects"
 header:
   overlay_image: "/images/Seattle.png"
   teaser: "/images/Seattle.png"
