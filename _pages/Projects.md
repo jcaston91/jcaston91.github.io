@@ -3,7 +3,6 @@ layout: archive
 permalink: /projects/
 title: "Projects Performed by Me"
 header:
-  image: "/images/Seattle_Pic.png"
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
