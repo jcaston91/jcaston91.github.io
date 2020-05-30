@@ -3,9 +3,9 @@ title: "Titanic Dataset Data Mining"
 date: 2019-10-09
 author_profile: false
 tags: 
-  - user input
+  - Feature Reduction
   - python
-  - JSON
+  
 excerpt: "This was one of the more robust assignment that I did while learning Data Mining."
 ---
 
