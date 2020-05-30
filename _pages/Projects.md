@@ -3,8 +3,8 @@ layout: archive
 permalink: /projects/
 title: "Projects Performed by Me"
 header:
-  overlay_image: "/images/Seattle_Pic.png"
-  teaser: "/images/Seattle_Pic.png"
+  overlay_image: "/images/Seattle.png"
+  teaser: "/images/Seattle.png"
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
