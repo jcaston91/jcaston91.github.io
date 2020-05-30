@@ -6,6 +6,7 @@ tags:
   - Pyspark
   - python
   - Big Data
+  - Spark
 excerpt: "This assignment was one of my very first times working with actual big data, so this required me to leak PySpark in order to work with the big data."
 ---
 
