@@ -4,7 +4,7 @@ date: 2019-10-09
 author_profile: false
 tags: 
   - Feature Reduction
-  - python
+  - Python
   
 excerpt: "This was one of the more robust assignment that I did while learning Data Mining."
 ---
