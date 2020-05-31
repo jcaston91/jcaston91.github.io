@@ -2,7 +2,10 @@
 title: "Weather App"
 date: 2019-05-28
 author_profile: false
-tags: [user input, python, api]
+tags: 
+  - User Input
+  - Python
+  - API
 excerpt: "A weather application that can give you real time weather updates."
 ---
 
