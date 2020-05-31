@@ -3,8 +3,8 @@ title: "Cars Project"
 date: 2020-03-15
 author_profile: false
 tags: 
- - python
- - K means
+ - Python
+ - K Means
  - Linear Regression
  - Two Tailed Hypothesis
 excerpt: "Exploring the used car market to see if we can solve potential real world problems."
