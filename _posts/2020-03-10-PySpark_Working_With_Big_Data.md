@@ -3,7 +3,7 @@ title: "Working with Big Data"
 date: 2020-03-10
 author_profile: false
 tags: 
-  - Pyspark
+  - PySpark
   - Python
   - Big Data
   - Spark
