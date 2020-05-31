@@ -4,6 +4,9 @@ date: 2020-04-28
 author_profile: false
 tags:
   - R Programming
+  - Principle Component Analysis
+  - Linear Regression
+  - K Nearest Neighbors
 excerpt: "Exploring one of my recently used projects to try and create it in the R programming language."
 ---
 
