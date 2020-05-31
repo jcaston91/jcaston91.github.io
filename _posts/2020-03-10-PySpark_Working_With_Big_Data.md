@@ -4,7 +4,7 @@ date: 2020-03-10
 author_profile: false
 tags: 
   - Pyspark
-  - python
+  - Python
   - Big Data
   - Spark
 excerpt: "This assignment was one of my very first times working with actual big data, so this required me to leak PySpark in order to work with the big data."
