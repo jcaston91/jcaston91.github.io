@@ -4,7 +4,7 @@ date: 2020-05-20
 author_profile: false
 tags: 
   - Spark
-  - python
+  - Python
   - PySpark
   - Big Data
 excerpt: "Now that I have practiced coding in spark I decided to try some machine learning and do a movie recommendation engine."
