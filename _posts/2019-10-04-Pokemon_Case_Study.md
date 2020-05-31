@@ -3,10 +3,9 @@ title: "Pokemon Case Study"
 date: 2019-10-04
 author_profile: false
 tags: 
-  - K  Nearest Neighbors
+  - K Nearest Neighbors
   - Principle Component Analysis
-  - Regression
-  
+  - Regression 
 excerpt: "This is my original Pokemon study done in Python programming language."
 ---
 
